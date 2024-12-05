@@ -10,7 +10,7 @@ export default function SearchBar() {
 
 
     const searchMyCity = () => {
-        fetch(`http://api.weatherstack.com/current?access_key=e2ab6d0528af18974bf5f850b07da68a&query=${inputValue}`)
+        fetch(`https://api.weatherstack.com/current?access_key=e2ab6d0528af18974bf5f850b07da68a&query=${inputValue}`)
             .then((res) => {
                 // console.log({ res })
                 return res.json();
