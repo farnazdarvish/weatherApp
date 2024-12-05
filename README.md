@@ -1,6 +1,6 @@
 # weatherApp
 
-<img width="866" alt="Screenshot 2024-12-06 at 2 09 14 AM" src="https://github.com/user-attachments/assets/48ad81dd-6a9f-4f77-a3cb-5bdf810ce405">
+<img width="866" alt="Screenshot 2024-12-06 at 2 09 14 AM" src="https://github.com/user-attachments/assets/54c4e972-182f-4553-9a5c-82a610aefc68">
 
 - 💡[Demo Project](https://farnazdarvish.github.io/weatherApp/)
 
